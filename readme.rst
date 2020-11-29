@@ -25,7 +25,7 @@ Categories
 Check Source
 ------------
 
-Any tools for scanning source files to report issues with code, style, conventions, deprecated features etc.
+Any tools for scanning source files to report issues with code, style, conventions, deprecated features and all features are available in new features.
 
 
 Config
